@@ -1,0 +1,8 @@
+{
+  "exp_name": "mnist",
+  "num_epochs": 20,
+  "learning_rate": 0.001,
+  "batch_size": 128,
+  "max_to_keep": 5,
+  "state_size": [28, 28, 1]
+}
